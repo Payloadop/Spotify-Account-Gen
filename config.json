@@ -1,0 +1,10 @@
+{
+    "threads": 1,
+    "use_custom_password": true,
+    "custom_password": "Jigneshreddyop23",
+    "use_proxy": true,
+    "custom_email_start": "payload",
+    "captchakey": "",
+    "domains": ["gmail.com", "outlook.com", "hotmail.com"]
+  }
+  
