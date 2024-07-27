@@ -36,6 +36,10 @@ The script uses a `config.json` file to configure the account creation process. 
 * `console` (for logging)
 * `solver` (for CAPTCHA solving)
 
+## Join Our Community
+- Join our Discord community for support, updates, and more: [Eclipsy Hub](https://discord.gg/eclipsyhub)
+- Looking For Saudi-Arabian's Create Ticket If U Are From SA
+
 **Note**
 ----
 
