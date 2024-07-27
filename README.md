@@ -22,7 +22,7 @@ The script uses a `config.json` file to configure the account creation process. 
 -----
 
 1. Create a `config.json` file with the desired settings.
-2. Run the script using Python: `python script.py`
+2. Run the script using Python: `python main.py`
 3. The script will create Spotify accounts using the configured settings.
 
 **Dependencies**
