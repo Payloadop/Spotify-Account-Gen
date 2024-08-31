@@ -1,5 +1,10 @@
 **Spotify Account Creator**
 ==========================
+**Patched**
+---------------
+
+
+Fix After 15 Stars
 
 **Description**
 ---------------
